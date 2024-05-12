@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(230, 230, 230);
+    font-family: sans-serif;
+}
+
+.controls {
+    padding: 32px;
+    max-width: 600px;
+    margin: 64px auto;
+    border: 2px solid;
+    border-radius: 6px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    margin-inline: auto;
+}
+
+label,
+p,
+input {
+    font-size: 16px;
+}
+
+div {
+    padding-bottom: 16px;
+}
